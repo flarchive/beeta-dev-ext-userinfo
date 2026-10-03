@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of beeta-dev/ext-userinfo.** Not for installation: use [Packagist](https://packagist.org/packages/beeta-dev/ext-userinfo) or the [upstream repository](https://github.com/Beeta-dev/ext-userinfo).
 
-**0** versions archived · Latest: [`0.3.3`](https://github.com/flarchive/beeta-dev-ext-userinfo/tree/archive/v0.3.3) · Flarum: `^0.1.0-beta.4`
+**1** versions archived · Latest: [`0.3.3`](https://github.com/flarchive/beeta-dev-ext-userinfo/tree/archive/v0.3.3) · Flarum: `^0.1.0-beta.4`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.3.3` | 2016-07-22 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/beeta-dev-ext-userinfo/tree/archive/v0.3.3) |
 
 Catalog entry: [packages/beeta-dev-ext-userinfo.json](https://github.com/flarchive/archive-index/blob/main/packages/beeta-dev-ext-userinfo.json)
 
